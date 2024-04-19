@@ -21,3 +21,7 @@ Collection of projects for controlling [neovim](https://neovim.io/) with [Talon]
 ### Is cursorless really going to be supported in neovim?
 
 Yes, beta support will be released very soon. It will be without any hats though atm. So you’ll be able to target rows, paints, tokens, etc but no “air” or “blue bat” for now. But it helps a lot already in the terminal. For better text editing experience, it is still recommended to use cursorless in vscode.
+
+## Do I need all the repositories of hands-free-vim?
+
+No, you only need the 2 repositories: [talon.nvim](https://github.com/hands-free-vim/talon.nvim) and [neovim-talon](https://github.com/hands-free-vim/neovim-talon) if you just want to use it. For contributing, the other repositories are useful.
