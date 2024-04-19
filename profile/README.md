@@ -6,7 +6,7 @@ Collection of projects for controlling [neovim](https://neovim.io/) with [Talon]
 
 1. Maintaining your own talon-specific neovim settings/tools is tedious
 2. Using a normal terminal from Talon is not great UX; it's not easy to access history, etc
-3. Editing/navigating neovim by vocie with Talon is tedious
+3. Editing/navigating neovim by voice with Talon is tedious
 4. No cursorless in neovim
 
 ## The Solutions
