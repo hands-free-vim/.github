@@ -11,9 +11,7 @@ Collection of projects for controlling [neovim](https://neovim.io/) with [Talon]
 
 ## The Solutions
 
-1. All code related to Talon, neovim (editing and terminal) and cursorless use in 2 repositories
-    a. [talon.nvim](https://github.com/hands-free-vim/talon.nvim)
-    b. [neovim-talon](https://github.com/hands-free-vim/neovim-talon)
+1. All code related to Talon, neovim (editing and terminal) and cursorless use in 2 repositories: [talon.nvim](https://github.com/hands-free-vim/talon.nvim) and [neovim-talon](https://github.com/hands-free-vim/neovim-talon)
 3. Use neovim as your terminal! Easy shell history buffer access
 4. Support automatic title updates, tabs, terminal, etc
 5. Introduce cursorless into neovim ([eventually](https://github.com/cursorless-dev/cursorless/pull/2256))
